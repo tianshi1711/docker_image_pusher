@@ -7,3 +7,4 @@ cp0204/quark-auto-save:latest
 lscr.io/linuxserver/emby
 whyour/qinglong
 google/cadvisor:latest
+qdtoday/qd
